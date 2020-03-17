@@ -1,2 +1,2 @@
 # RepRainbow
-A repository for git
+A repository for git for IEO
